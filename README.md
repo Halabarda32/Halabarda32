@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, and welcome to my profile!</h1>
+<h3 align="center">I'm a front-end developer</h3>
+<p align="center">I'm a passionate frontend developer with a keen eye for clean and responsive design. My expertise lies in crafting user-friendly interfaces and delightful user experiences. Proficient in JavaScript, React, Redux, TypeScript and more! I love turning creative ideas into pixel-perfect, functional websites. 💻</p>
+<p align="center"> 
+</p>
 
-<!--
-**Halabarda32/Halabarda32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
-Here are some ideas to get you started:
+<h3 align="left">🚀 What I bring to the table:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 Creative problem solver: Turning design concepts into interactive web experiences.
+
+- 🎨 UI/UX enthusiast: Prioritizing user-centric design and accessibility.
+
+- 📱 Responsive design: Ensuring seamless experiences across devices and browsers.
+
+- 🛠 I’m currently learning **Next.js**
+
+<h3 align="left">My stack:</h3>
+  
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,styledcomponents,bootstrap,git,gulp"/> </a>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<br>
+<h3 align="left">Contact me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/krzysztof-kieryłowski-118586251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+</p>
+<br>
