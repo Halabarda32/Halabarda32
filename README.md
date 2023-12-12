@@ -23,6 +23,8 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+![](https://komarev.com/ghpvc/?username=Halabarda32&label=PROFILE+VIEWS)
+
 <br>
 <h3 align="left">Contact me:</h3>
 <p align="left">
