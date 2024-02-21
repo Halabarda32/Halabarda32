@@ -19,7 +19,7 @@
 
 <h3 align="left">My stack:</h3>
   
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,styledcomponents,bootstrap,git,gulp"/> </a>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,styledcomponents,bootstrap,tailwindcss,git,gulp"/> </a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
